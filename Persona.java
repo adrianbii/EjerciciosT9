@@ -1,4 +1,4 @@
-package t9_ejercicio;
+package t9_ejercicios;
 
 
 import java.text.ParseException;
