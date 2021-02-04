@@ -50,6 +50,7 @@ public class Persona {
 	public Persona(String nombre, String apellidos, String sexo) {
 		this.nombre=nombre;
 		this.apellidos=apellidos;
+		this.sexo=sexo;
 	}
 
 	public String getDni() {
